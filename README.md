@@ -1,8 +1,12 @@
 # Uninstall Windows 10/11 System Apps
 
 <p>Most system apps are unnecessary and take significant storage. Uninstall those you do not need using PowerShell and the commands.</p>
-<p>If you got an error, this means the app you are trying to uninstall is either unavailable on your PC, cannot be uninstalled at all, or something else happened.</p>
-<p>The list of the command is updated.</p>
+<p>If you got an error, this means the app you are trying to uninstall either is unavailable on your PC, cannot be uninstalled at all, or something else happened.</p>
+<p>The list of the commands is updated.</p>
+<p>Some apps may not be available on Windows 10.</p>
+
+> [!IMPORTANT]
+> If you want to uninstall a system app for only one user you are logged in, remove ```-allusers``` from a command.
 
 ## How to uninstall
 <ol>
